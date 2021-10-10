@@ -12,6 +12,7 @@ Project description<br>
 Linear search just like we put all items in one bucket and find them one by one in this container. In the ‘create_linear_table’ function, we create an unordered list of tuples containing all cities and their corresponding populations appending all elements in a list structure. 
 
 ![Screen Shot1](https://user-images.githubusercontent.com/86497342/136708014-e34423a9-197d-4f27-81fc-6f58d0271410.png)
+https://user-images.githubusercontent.com/86497342/136708014-e34423a9-197d-4f27-81fc-6f58d0271410.png
 
 
 
